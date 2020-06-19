@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1591019719,
-      "filename": "CesiumOS-v2.6-P2-begonia-20200601-1356-OFFICIAL.zip",
-      "id": "c4dcb43f72592f62ba06cd6dd8616cae",
+      "datetime": 1592543152,
+      "filename": "CesiumOS-v2.6.1-begonia-20200619-0507-OFFICIAL.zip",
+      "id": "8df090f15ea37b9cc3441e5b9f4ad7ed",
       "romtype": "OFFICIAL",
-      "size": 939840147,
-      "url": "https://sourceforge.net/projects/cesiumos-org/files/begonia/CesiumOS-v2.6-P2-begonia-20200601-1356-OFFICIAL.zip/download",
-      "version": "2.6-P2"
+      "size": 925783212,
+      "url": "https://sourceforge.net/projects/cesiumos-org/files/begonia/CesiumOS-v2.6.1-begonia-20200619-0507-OFFICIAL.zip/download",
+      "version": "2.6.1"
     }
   ]
 }
