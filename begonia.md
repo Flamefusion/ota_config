@@ -1,14 +1,10 @@
-• Based on CesiumOS v2.6.1 changes
-• Kernel upstream to v4.14.184 (Compiled using Clang 9.0.4)
-• Signed with official build keys
-• Synced with more begonia-q-oss drivers
-• Reduced touch lag
-• Fixed VoLTE/VoWifi
-• Updated Coral build fingerprint to June
-• Improved haptic feedback vibrations
-• Fixed flashlight
-• Pinned camera, launcher, surface flinger and a few more libs in memory
-• Switched to pre-existing 6GB Dalvik heap
-• Fixed StatusBar height
-• Added aptX blobs from MIUI 12 Beta's 
-• Several under the hood improvements
+• Fixed VoLTE on boot
+• Fixed random crash of VoLTE 
+• Fixed VoWifi & ViLTE
+• Disable logs on logd (Makes builds damn smooth)
+• Fixed echo during calls (Bluetooth)
+• Added SafailNet (At least makes basic integrity pass)
+• Fixed delay in data switch toggling
+• Kernel upstream to v4.14.186
+• Updated Novatek touch firmware from begonia-q-oss
+• Added an option to configure gesture bar height
